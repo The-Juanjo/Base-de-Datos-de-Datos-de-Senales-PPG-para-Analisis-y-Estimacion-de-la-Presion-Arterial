@@ -30,3 +30,9 @@ Este repositorio fue creado para funcionar desde una página web. Puede acceder 
 3.	Hipertensión:
 •	Etapa 1: Presión arterial sistólica entre 130-139 mmHg o presión arterial diastólica entre 80-89 mmHg.
 •	Etapa 2: Presión arterial sistólica igual o mayor a 140 mmHg o presión arterial diastólica igual o mayor a 90 mmHg.
+
+# Referencias:
+
+• Verdecchia, P., & Angeli, F. (2003). Séptimo informe del Joint National Committee para la Prevención, Detección, Evaluación y Tratamiento de la Hipertensión Arterial: el armamento está a punto. Revista Española De Cardiología, 56(9), 843–847. https://doi.org/10.1157/13051609
+
+• Redefinición de la hipertensión arterial por primera vez en 14 años: 130 es el nuevo valor para la presión alta. (n.d.). American Heart Association. https://newsroom.heart.org/news/redefinicion-de-la-hipertension-arterial-por-primera-vez-en-14-anos-130-es-el-nuevo-valor-para-la-presion-alta
